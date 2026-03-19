@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm weyl3xx 👋
 
-<!--
-**weyl3xx/weyl3xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Python developer focused on building secure desktop applications, automation tools, and system utilities.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Language:** Python (Main)
+* **Libraries:** PyQt6, Cryptography, CustomTkinter, PySide, Pydub, Socket
+* **Interests:** Data Security, Audio Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Featured Projects
+* **SARC** — A secure file archiving tool with a minimalist interface.
+* **Bass Boost App** — Desktop software for advanced audio processing.
+* **Remote Control System** — A robust client-server application for remote machine management and automation.
+
+### 📊 GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=weyl3xx&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weyl3xx&layout=compact&theme=dark&hide_border=true)
+
+### 📫 Connect with me
+[Telegram](https://t.me/weyl3xx)
